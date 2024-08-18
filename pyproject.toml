@@ -1,0 +1,6 @@
+[project]
+name = "pytoppra"
+version = "0.0.1"
+dependencies = ["cvxpy", "scipy"]
+
+requires-python = ">=3.10"
